@@ -1,0 +1,20 @@
+.navbar {
+    background-color: rgba(30, 39, 46,1.0);
+}
+
+.navbar-brand, .nav-link, .btn-outline-success {
+    color: white;
+}
+
+.btn-outline-success {
+    border-color: white;
+}
+
+.btn-outline-success:hover {
+    border-color: white;
+    background-color: rgba(60, 64, 198,1.0);
+}
+
+img {
+    width : 100%;
+}
